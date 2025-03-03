@@ -14,9 +14,9 @@ Visualization: Plots training and validation loss/accuracy over epochs using mat
 
 # Technologies Used
 TensorFlow: Framework for building and training the neural network.
-Keras: High-level neural network API used for building models.
-NumPy: For handling arrays and vectorized operations.
-Matplotlib: For plotting training and validation loss/accuracy graphs.
+<br>Keras: High-level neural network API used for building models.
+<br>NumPy: For handling arrays and vectorized operations.
+<br>Matplotlib: For plotting training and validation loss/accuracy graphs.
 
 
 # Import necessary modules:
