@@ -21,4 +21,4 @@ import numpy as np <br>
 from tensorflow import keras<br>
 from tensorflow.keras import layers<br>
 from tensorflow.keras.datasets import imdb<br>
-import matplotlib.pyplot as plt<br>"# Movie-Review-Analysis" 
+import matplotlib.pyplot as plt<br>
