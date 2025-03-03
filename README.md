@@ -22,3 +22,10 @@ from tensorflow import keras<br>
 from tensorflow.keras import layers<br>
 from tensorflow.keras.datasets import imdb<br>
 import matplotlib.pyplot as plt<br>
+
+# Import Code
+To Improt the code go to google colab and open a notebook from github using 
+TE109/Movie-Review-Analysis as the path
+
+
+# 
